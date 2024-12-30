@@ -1,0 +1,18 @@
+userName: rohitbalapure_OYJF4E
+accessKey: zvKpAxqBX7rtrvT4bu3U
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6
+  - deviceName: iPhone 15 Pro Max
+    osVersion: 17
+    browserName: safari
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: browserstack-technical-assignment-1
+projectName: browserstack-technical-assignment
